@@ -4,29 +4,30 @@
 
 ### thanks for stopping by my Repo
 
-I love using technology to solve problems and improve processes. Backend, ML, data processing or Frontend, I'm eager to dive into whatever's needed to get a project going.  
-<hr/>
+I love using technology to solve problems and improve processes. Whether backend, ML, data processing or Frontend, I'm eager to dive into whatever's needed to get a project going.  
+<hr />
 Luckily I get to work on lots of open source projects.  
-You can check out projects that I've contributed to on the github page of [ETH Library Lab](https://github.com/eth-library-lab/eth-library-lab/)
+You can check out projects that I've contributed to on the github page of <a src="https://github.com/eth-library-lab/eth-library-lab">ETH Library Lab</a>.
 
 - 🔭 I’m currently working on backend microservices and full stack image retrieval applications at ETH Library Lab
 - 🌱 Lately I've been loving writing Go
 - 💬 Ask me about: how the irish rugby team is doing... or how we can develop your idea for a new application  
-- 📫 How to reach me: https://www.linkedin.com/in/barry-sunderland/
-- ⚡ Fun fact: The last time I stayed up working all night was at HackZurich 2021  
+- 📫 How to reach me: [linkedin.com/in/barry-sunderland/](https://www.linkedin.com/in/barry-sunderland/)
 
 ## Projects at ETH Library Lab: 
 
 ### [open imageSearch](https://imagesearch.ellprototypes.ch/)  
+image retrieval application to help art collections find image metadata  
 <i>tech:</i> python, Django, Tensorflow, Postgresql, Vue  
 <br/>
-<img src="./assets/open-image-search.gif" width=300 />
+<img src="./assets/open-image-search.gif" width=400 />
 
-
-### Data DJ 
+### Data DJ  
+File access microservice to support Data Science researchers  
 <i>tech:</i> go, gin, mongodb, redis  
 <br/>
-<img src="./assets/DataDJ-simple-overview.gif" width=300 />
+<img src="./assets/DataDJ-simple-overview.gif" width=400 />
+
 
 ## Blog Posts:
 
