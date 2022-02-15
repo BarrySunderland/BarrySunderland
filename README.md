@@ -7,11 +7,13 @@
 I love using technology to solve problems and improve processes. Whether backend, ML, data processing or Frontend, I'm eager to dive into whatever's needed to get a project going.  
 <hr />
 Luckily I get to work on lots of open source projects.  
-You can check out projects that I've contributed to on the github page of <a src="https://github.com/eth-library-lab/eth-library-lab">ETH Library Lab</a>.
+You can check out projects that I've contributed to on the github page of 
+
+[ETH Library Lab](https://github.com/eth-library-lab/eth-library-lab)
 
 - 🔭 I’m currently working on backend microservices and full stack image retrieval applications at ETH Library Lab
 - 🌱 Lately I've been loving writing code in [Go](https://go.dev/) and keeping my notes in [obsidian](https://obsidian.md/)
-- 💬 Ask me about: how the irish rugby team is doing... or how we can develop your idea for a new application  
+- 💬 Ask me about: how the irish rugby team is doing... or how we could develop your idea for a new application  
 - 📫 How to reach me: [linkedin.com/in/barry-sunderland/](https://www.linkedin.com/in/barry-sunderland/)
 
 ## Projects at ETH Library Lab: 
