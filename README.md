@@ -13,7 +13,7 @@ You can check out projects that I've contributed to on the github page of
 
 - 🔭 I’m currently working on backend microservices and full stack image retrieval applications at ETH Library Lab
 - 🌱 Lately I've been loving writing code in [Go](https://go.dev/) and keeping my notes in [obsidian](https://obsidian.md/)
-- 💬 Ask me about: how the irish rugby team is doing... or how we could develop your idea for a new application  
+- 💬 Ask me about: how the irish rugby team is doing... then how we could start designing and hacking your latest idea for an application  
 - 📫 How to reach me: [linkedin.com/in/barry-sunderland/](https://www.linkedin.com/in/barry-sunderland/)
 
 ## Projects at ETH Library Lab: 
